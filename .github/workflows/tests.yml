@@ -1,4 +1,4 @@
-name: tests
+name: Tests
 
 on:
   push:
@@ -19,4 +19,4 @@ jobs:
       - name: Tests
         uses: Yandex-Practicum/test-project-action@v1
         with:
-          project: 'zakrivayuschiy-teg-ad-main'
+          project: 'zakrivayuschiy-teg-ad'
